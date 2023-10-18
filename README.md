@@ -24,7 +24,7 @@ Compile the C source code:
 
 ```bash
 cd live_fomat_counter
-gcc Formatting counter.c -o formatting counter
+gcc 'Formatting counter.c' -o formatting counter
 ```
 
 ## Usage
